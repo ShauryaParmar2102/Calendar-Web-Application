@@ -33,16 +33,16 @@ A simple JavaScript calendar application that allows users to create, view, and 
 ---
 
 ## 🚀 How to Run
+1. Download the project (or clone it)
 
-1. Download or clone the repository
-2. 
-3. Open `index.html` in your browser
-4. 
-5. Start adding events to your calendar
+2. If downloaded as ZIP, unzip/extract the folder
+   
+3. Open index.html in your browser
+
+4 .Start using the calendar
 
 ---
 
 ## 📸 Screenshot
 
-<img width="1907" height="871" alt="Calender" src="https://github.com/user-attachments/assets/f316ea8b-5454-469b-8fea-18070c7657fe" />
 
