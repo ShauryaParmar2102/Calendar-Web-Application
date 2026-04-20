@@ -45,4 +45,5 @@ A simple JavaScript calendar application that allows users to create, view, and 
 
 ## 📸 Screenshot
 
+<img width="1911" height="873" alt="Calender" src="https://github.com/user-attachments/assets/b3a28b3e-8288-4f1b-9417-568dca0758cb" />
 
